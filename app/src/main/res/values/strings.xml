@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MetaWeather</string>
+    <string name="lblMax">Max</string>
+    <string name="lblMin">Min</string>
+    <string name="lblWindSpeed">Wind Speed</string>
+    <string name="lblWindDirection">Wind Direction</string>
+    <string name="lblAirPressure">Air Pressure</string>
+    <string name="lblHumidity">Humidity</string>
+    <string name="lblBranding">Powered by MetaWeather REST API</string>
+</resources>
